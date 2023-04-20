@@ -6,6 +6,7 @@
     margin: 0;
     padding: 0;
     position: relative;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .content {
@@ -14,7 +15,6 @@
     flex-wrap: nowrap;
     height: 75vh;
     width: 55vw;
-    font-family: 'Times New Roman', Times, serif;
     border: 1px solid white;
     padding-top: 3vh;
     padding-left: 5vw;
